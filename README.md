@@ -15,4 +15,4 @@ j. The user can login  with email or username<br>
 k. Recover password with two tokens verification (one comes in the url sent to the email, the second one comes in the email as part of the body message)<br>
 Requirementes:<br>
 It uses the following bcrypt library:
-<a target="blank" href="https://github.com/dwightwatson/codeigniter-bcrypt" >https://github.com/dwightwatson/codeigniter-bcrypt</a>
+<a target="blank" href="https://github.com/waldirbertazzijr/codeigniter-bcrypt" >https://github.com/waldirbertazzijr/codeigniter-bcrypt</a>
