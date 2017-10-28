@@ -12,4 +12,7 @@ g. It uses ajax for all petitions<br>
 h. It uses sweet alert CDN to show the answer from the server to the user<br>
 i. It uses bcrypt to store the password field<br>
 j. The user can login  with email or username<br>
-k. Recover password with two tokens verification (one comes in the url sent to the email, the second one comes in the email as part of the body message)
+k. Recover password with two tokens verification (one comes in the url sent to the email, the second one comes in the email as part of the body message)<br>
+Requirementes:<br>
+It uses the following bcrypt library:
+<a target="blank" href="https://github.com/dwightwatson/codeigniter-bcrypt" >https://github.com/dwightwatson/codeigniter-bcrypt</a>
